@@ -8,10 +8,10 @@ namespace Discord_Main
 {
     class Globals
     {
-        public static string Token = "Bot Token"; // << Discord Bot Token
+        public static string Token = "MTU0NDc0MDg0ODEyNDgyOTgwOA.G-7G8G.-xbkL4nL3GjYYRr8ViHiPye6iYjCvLSbQDpDy0"; // << Discord Bot Token
         public static string TempGuild = "0"; // do not change
-        public static ulong Guild = 6969; // << Discord Guild/Server id
-        public static ulong Cmd = 420; // << Discord Cmd Channel (you can put random channel here in your server)
+        public static ulong Guild = 1544741912353964095; // << Discord Guild/Server id
+        public static ulong Cmd = 1544878795683790958; // << Discord Cmd Channel (you can put random channel here in your server)
     }
 
     class Global_Basic
